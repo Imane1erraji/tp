@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping
     public String BienvenueSpringCode(){
-        return "Bienvenue Spri Code";
+        return "Bienvenue Springgg Code";
     }
 }
